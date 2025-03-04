@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohamadElsadani
 - 👀 I’m interested in ... pyton, java
-- 🌱 I’m currently learning ... IoT
+- 🌱 I’m currently learning ... Network security and ccna and mcsa
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... WhatsApp : 01270896101
 
